@@ -135,7 +135,6 @@ function App() {
           <Image src={logo} />
           <Button
             onClick={loginhandler}
-            w={'30%'}
             color={'white'}
             bg={'purple.500'}
             _hover={'purple'}
